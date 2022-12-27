@@ -1,4 +1,4 @@
-package com.pcs.apptoko.respoonse.produk
+package com.pcs.apptoko.response.produk
 
 class Data {
     data class Data(

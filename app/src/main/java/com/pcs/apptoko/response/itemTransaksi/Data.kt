@@ -1,4 +1,4 @@
-package com.pcs.apptoko.respoonse.itemTransaksi
+package com.pcs.apptoko.response.itemTransaksi
 
 class Data {
     data class Data (

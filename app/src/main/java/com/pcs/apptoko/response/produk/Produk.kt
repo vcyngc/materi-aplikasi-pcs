@@ -1,4 +1,4 @@
-package com.pcs.apptoko.respoonse.produk
+package com.pcs.apptoko.response.produk
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
@@ -11,6 +11,6 @@ class Produk {
         val id: String,
         val nama: String,
         val nama_admin: String,
-        val token: String
+        val stok: String
     ):Parcelable
 }

@@ -1,4 +1,4 @@
-package com.pcs.apptoko.respoonse.cart
+package com.pcs.apptoko.response.cart
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
